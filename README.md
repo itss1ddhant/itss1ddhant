@@ -1,9 +1,5 @@
 ### Hi there, I am Siddhant, but you call me Sid! 👋
 
-<!--
-**itss1ddhant/itss1ddhant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 Currently brainstorming on developing a Cab Service app with new improvements over the existing versions.
 
@@ -17,4 +13,4 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: I am a Black-belt in Karate, a Junior Diploma Holder in Tabla, multiple times Gold medalist at the National Level.
 
--->
+
