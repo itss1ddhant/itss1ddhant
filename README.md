@@ -1,7 +1,7 @@
 ### Hi there, I am Siddhant, but, you can call me Sid! 👋
 
 
-- 🔭 Currently brainstorming on developing a Cab Service app with new improvements over the existing versions in the market. Besides, I am always in the lookout for adding new features or improvements based on my research in my existing projects.
+- 🔭 Currently brainstorming on developing a Cab Service app with new improvements over the existing versions in the market. Besides, I am always in the lookout for adding new features or improvements based on my research in my existing projects. Also interested in a variety of Open Source Projects
 
 - 🌱 I’m currently in the 3rd year of my Computer Science Engineering course.
 
