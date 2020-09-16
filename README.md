@@ -3,7 +3,7 @@
 
 - 🔭 Currently brainstorming on developing a Cab Service app with new improvements over the existing versions in the market. Besides, I am always in the lookout for adding new features or improvements based on my research in my existing projects. Also interested in a variety of Open Source Projects
 
-- 🌱 I’m currently in the 3rd year of my Computer Science Engineering course.
+- 🌱 I’m currently in the 3rd year of my Computer Science Engineering course. I am discovering more each day in the field of Open Source Contribution.
 
 - 👯 I’m looking to collaborate on a variety of projects on any topic. Basically, I am up for learning something new all the time.
 
